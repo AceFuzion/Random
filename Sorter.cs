@@ -1,6 +1,8 @@
 /* Stephanie Hunt
     10/30/22
-    A program to read and sort a .txt file and write to a new one
+    A program to read a .txt file of names. Then sort those names alphabetically
+    by last name, then by first name. Lastly it writes the final sorted list to
+    a new file.
 */
 using System;
 using System.IO;
